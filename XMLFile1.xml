@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+	<user>
+		<city>Chennai</city>
+	</user>
+	<user>
+		<city>Mumbai</city>
+	</user>
+	<user>
+		<city>Delhi</city>
+	</user>
+</users>
